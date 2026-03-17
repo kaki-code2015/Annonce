@@ -17,7 +17,7 @@ Nous avons travaillé dur sur des innovations majeures :
 * **Bouclier de Sécurité :** Un scanner intégré pour vérifier la signature des mods et bloquer les virus.
 
 ### 🎨 Pause BD & Storytelling
-Pendant les deux prochains mois, je m'éloigne un peu du code pour publier une **BD officielle** sur l'univers de NayIA ! Vous y découvrirez les coulisses de l'équipe et l'histoire entre Isabelle et Sam.
+Pendant les deux prochains mois, je m'éloigne un peu du code pour publier une **BD officielle** qui s'appelle **Sam et Pat**! Vous y découvrirez la vie de famille de Sam et Pat et l'histoire d'amour entre entre Isabelle et Sam.
 
 ### 🗓️ Rendez-vous pour le Grand Lancement
 Marquez vos calendriers :
